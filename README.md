@@ -25,7 +25,9 @@ Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LIC
 The project was originally developed by:
 
 - [Amine Ben Hassouna](https://github.com/aminosbh)
-- The others here
+- Marouene Addhoum
+- Yahia Boussaid
+- Youssef Bouzouaya
 
 ## License
 
