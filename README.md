@@ -10,9 +10,7 @@ and we appreciate all of them :
 - Source code
 - Unit tests
 - Bug Reports
-- Documentation
-- Localization (Translation)
-- etc
+
 
 Contributions should be under the terms of the MIT license [&lt;LICENSE&gt;](LICENSE).
 
